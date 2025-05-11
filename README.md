@@ -71,7 +71,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 Use the prediction script to classify new images:
 
 ```bash
-python predict.py --image path_to_image.jpg
+python  app.py
 ```
 
 
