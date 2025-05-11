@@ -94,4 +94,4 @@ python predict.py --image path_to_image.jpg
 ## 📬 Contact
 
 Feel free to reach out for feedback or collaboration!
-*Adinath Nage** – [your.email@example.com](mailto:adinathnage@gmail.com]
+*Adinath Nage** – mailto:adinathnage9739@gmail.com
